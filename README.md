@@ -8,11 +8,9 @@ Developed by Eng. Mouaz M. Al-Shahmeh
 
 ## Description
 
-#### The Bosra El-Cham © application is a unique documentation application that offers users a unique experience in exploring the history of Busra Al-Sham. The application includes rich historical articles and rare documents that highlight the cultural and historical heritage of the city.
-
-#### The application also contains a photo gallery displaying unique treasures of images, reflecting the simplicity of life and the cultural influences of successive civilizations that influenced Busra the Levant throughout the ages. Through its religious and historical diversity, the application offers an exciting journey exploring the city’s development across different eras and religions.
-
-#### Using modern technology, the application provides an interactive and fun experience, where users can dive into the depths of history and explore the secrets of Busra al-Sham. We are proud to offer this app as a valuable cultural resource and a wonderful interface for exploring the heritage of this wonderful city.
+The Bosra El-Cham © application is a unique documentation application that offers users a unique experience in exploring the history of Bosra El-Cham. The application includes rich historical articles and rare documents that highlight the cultural and historical heritage of the city.
+The application also contains a photo gallery displaying unique treasures of images, reflecting the simplicity of life and the cultural influences of successive civilizations that influenced Bosra El-Cham the Levant throughout the ages. Through its religious and historical diversity, the application offers an exciting journey exploring the city’s development across different eras and religions.
+Using modern technology, the application provides an interactive and fun experience, where users can dive into the depths of history and explore the secrets of Bosra El-Cham. We are proud to offer this app as a valuable cultural resource and a wonderful interface for exploring the heritage of this wonderful city.
 
 ## Screenshots
 
