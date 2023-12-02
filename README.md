@@ -4,9 +4,7 @@ Developed by Eng. Mouaz M. Al-Shahmeh
 
 ## App Icon
 
-<div style="text-align: center;">
-<img src="https://github.com/Eng-Mouaz-M-AlShahmeh/bosra-elcham-flutter-app/assets/86870601/2302e024-f628-43ca-96a4-2178720e228d" width="50%" />
-</div>
+<img src="https://github.com/Eng-Mouaz-M-AlShahmeh/bosra-elcham-flutter-app/assets/86870601/2302e024-f628-43ca-96a4-2178720e228d" width="25%" />
 
 ## Screenshots
 
