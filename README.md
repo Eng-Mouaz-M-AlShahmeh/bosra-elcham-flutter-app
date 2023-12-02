@@ -6,6 +6,10 @@ Developed by Eng. Mouaz M. Al-Shahmeh
 
 <img src="https://github.com/Eng-Mouaz-M-AlShahmeh/bosra-elcham-flutter-app/assets/86870601/2302e024-f628-43ca-96a4-2178720e228d" width="25%" />
 
+## Cover with Icon
+
+<img src="https://github.com/Eng-Mouaz-M-AlShahmeh/bosra-elcham-flutter-app/assets/86870601/eee9cb28-d20c-45df-8dd5-3a131ed34d8a" width="100%" />
+
 ## Description
 
 The Bosra El-Cham © application is a unique documentation application that offers users a unique experience in exploring the history of Bosra El-Cham. The application includes rich historical articles and rare documents that highlight the cultural and historical heritage of the city.
